@@ -1,0 +1,14 @@
+{
+  "name": "com.zidan.saveso",
+  "version": "1.0.0",
+  "displayName": "SaveSo",
+  "description": "A Unity package for saving and loading data using Unity's PlayerPrefs and other methods.",
+  "author": {
+    "name": "Zayniddin Kobilov",
+    "email": "zidankohaijob@gmail.com",
+    "url": "https://github.com/zayniddin"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.1"
+  },
+}
