@@ -1,4 +1,4 @@
-## Для работы этой систему вам необходимо установить 2 пакета:
+## Для работы этой системы вам необходимо установить 2 пакета:
 1. Odin(В будущем собираюсь его убрать) - https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041.
 2. Unity Standalone File Browser - https://github.com/gkngkc/UnityStandaloneFileBrowser
 ## Также проект сам подтянет
